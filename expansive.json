@@ -1,0 +1,12 @@
+/*
+    expansive.json - Configuration for exp-bootstrap-skeleton
+ */
+{
+    release: {
+        services: {
+            'minify-css': {
+                minify: true
+            }
+        }
+    }
+}
