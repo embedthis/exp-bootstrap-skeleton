@@ -1,12 +1,11 @@
-exp-bootstrap-skeleton
+exp-angular-skeleton
 ===
 
-Expansive Bootstrap skeleton plugin.
+Expansive Angular skeleton plugin.
 
 This provides:
 
- * Bootstrap
- * JQuery
+ * Angular
  * Configuration for Expansive plugins:
     * [exp-css](https://github.com/embedthis/exp-css) for CSS files
     * [exp-less](https://github.com/embedthis/exp-less) for Less files
@@ -17,12 +16,12 @@ This provides:
 
 ### To install:
 
-    pak install exp-bootstrap-skeleton
+    pak install exp-angular-skeleton
 
 ### Description
 
-The Bootstrap skeleton is a starter skeleton for Expansive using 
-[Bootstrap](http://getbootstrap.com). It provides a default layout,
+The Angular skeleton is a starter skeleton for Expansive using 
+[Angular](http://getangular.com). It provides a default layout,
 partial pages and is configured to use Less stylesheets. Extensions are installed
 to process less stylesheets and minify scripts.
 

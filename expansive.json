@@ -1,10 +1,11 @@
 /*
-    expansive.json - Configuration for exp-bootstrap-skeleton
+    expansive.json - Configuration for exp-angular-skeleton
  */
 {
     release: {
         services: {
             'minify-css': {
+                usemap: false,
                 minify: true
             }
         }
