@@ -5,8 +5,8 @@
     release: {
         services: {
             'minify-css': {
-                usemap: false,
-                minify: true
+                '?usemap': false,
+                '?minify': true
             }
         }
     }
