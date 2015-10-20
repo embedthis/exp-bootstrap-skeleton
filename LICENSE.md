@@ -1,4 +1,4 @@
-exp-angular-skeleton License
+exp-bootstrap-skeleton License
 ===
 
 [MIT](http://opensource.org/licenses/MIT)
